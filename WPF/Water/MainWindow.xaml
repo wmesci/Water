@@ -1,0 +1,11 @@
+﻿<Window x:Class="Water.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:s="clr-namespace:Water"
+        Title="MainWindow" Height="638" Width="816">
+    <Grid Name="back" ClipToBounds="True">
+        <Grid.Background>
+            <ImageBrush ImageSource="back.jpg" />
+        </Grid.Background>
+    </Grid>
+</Window>
